@@ -1,4 +1,8 @@
-# Daily Expenses
+# Expense  Tracker
+
+# @ MOTIONCUT  --- 6 WEEKS INTERNSHIP ---
+
+**PROJECT: 03 -Expense  Tracker**
 
 ## A S.Y. Java Project using the Swing GUI platform
 
@@ -28,5 +32,6 @@ git fetch origin master
 ```
 
 ##### Do add the JRE files specified by Raj to your project 
+
 
 
